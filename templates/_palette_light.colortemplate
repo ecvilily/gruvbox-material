@@ -10,7 +10,6 @@ Color: dark4            #a89984         246             LightGrey
 Color: grey             #928374         245             LightGrey
 Color: lightgrey        #7c6f64         243             Grey
 Color: light            #5e4536         237             Black
-Color: light_alt        #5e4536         239             DarkGrey
 Color: red              #b83c3c         88              Red
 Color: orange           #ba5800         130             DarkYellow
 Color: yellow           #ae7109         136             Yellow
