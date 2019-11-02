@@ -1,6 +1,7 @@
 # vim: ft=colortemplate fdm=marker cc=22
 
 # Markdown: {{{
+markdownCode -> Green
 markdownCodeDelimiter -> Aqua
 markdownBoldDelimiter -> Grey
 markdownLinkText -> Purple
