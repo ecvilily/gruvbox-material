@@ -9,7 +9,7 @@ markdownHeadingDelimiter -> Grey
 markdownListMarker -> Red
 markdownOrderedListMarker -> Red
 markdownRule -> Purple
-markdownHeadingRule -> Purple
+markdownHeadingRule -> Grey
 markdownId -> Yellow
 
 mkdCodeDelimiter -> Aqua
